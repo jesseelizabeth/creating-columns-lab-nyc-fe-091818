@@ -51,6 +51,7 @@ img:hover {
   width: 33%;
   box-sizing: border-box;
   display: inline-block;
+  text-align: center;
 }
 
 /* create your tile classes! we recommend .small .med .large */
